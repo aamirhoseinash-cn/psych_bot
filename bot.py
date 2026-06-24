@@ -1,5 +1,5 @@
 """
-🧠 Psychology Daily Bot — v7.0
+🧠 Psychology Daily Bot — v7.1
 """
 
 import os
